@@ -1,5 +1,5 @@
 # Farming-Database-Arduino
-An Arduino/AMP/Python-based stack for remote monitoring 
+An Arduino/AMP/Django-based stack for remote monitoring in insect farming
 
 Problems:
  1. WiFi name and password need to be set manually 
